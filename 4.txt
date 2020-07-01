@@ -1,4 +1,3 @@
 if
 all my skill
-devopslearing
-terraform class
+devops
