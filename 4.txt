@@ -1,5 +1,5 @@
 if
 all my skill
 devlearning
-aws
+leanaws
 terraform
