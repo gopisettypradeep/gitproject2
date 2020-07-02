@@ -1,5 +1,7 @@
 if
 all my skill
 devlearning
+aws
 leanaws
+performing the test case
 terraform
